@@ -44,3 +44,8 @@ RewriteRule ^(.*)$ public/$1 [L]
 
 6. PASTIKAN FILE .env sudah ada (jika belum generate pada host lalu upload terpisah).
 ```
+
+# Deploy pada VPS
+```
+Untuk deploy menggunakan VPS silahkan baca Repo WEB Lumen, cara deploy sama saja. Atau bisa baca Repo Docker-Laravel-Certbot.
+```
