@@ -14,6 +14,7 @@ Test stagging : [https://lrv8.bignetlab.com]
 Env:
 1. CPanel
 2. Domain
+3. PHP 7.3
 ```
 # DEPLOY PADA HOSTINGAN (CPANEL):
 ```
