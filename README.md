@@ -9,7 +9,7 @@
 
 ## <p align="center"> Adaptive Network Laboratory WEB  Migration </p>
 # Adaptive Network LAB Laravel-8 AllinOne
-Web : [https://labs.gbesar.com]
+Test stagging : [https://lrv8.bignetlab.com]
 ```
 Env:
 1. CPanel
